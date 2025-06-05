@@ -989,3 +989,7 @@ dibujo:
     mov x5, #172
     bl pintarRectangulo
 
+
+
+
+
