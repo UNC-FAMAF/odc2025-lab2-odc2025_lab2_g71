@@ -989,7 +989,7 @@ dibujo:
     mov x5, #172
     bl pintarRectangulo
 
-
+// Dejar un renglon para que corra con Shift + Enter
 
 
 
